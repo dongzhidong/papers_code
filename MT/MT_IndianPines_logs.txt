@@ -1,0 +1,186 @@
+epoch:0/200 iter:81/82 loss:0.220484 lossr:0.023099 loss1:0.140230 loss2:0.057155
+epoch:1/200 iter:81/82 loss:0.231911 lossr:0.027967 loss1:0.155151 loss2:0.048793
+epoch:2/200 iter:81/82 loss:0.194028 lossr:0.023908 loss1:0.116845 loss2:0.053275
+epoch:3/200 iter:81/82 loss:0.233330 lossr:0.029187 loss1:0.147402 loss2:0.056741
+epoch:4/200 iter:81/82 loss:0.238963 lossr:0.027946 loss1:0.155676 loss2:0.055340
+save model:MT_IndianPines_lossbst.model
+epoch:5/200 iter:81/82 loss:0.191492 lossr:0.023816 loss1:0.117824 loss2:0.049852
+epoch:6/200 iter:81/82 loss:0.187942 lossr:0.025199 loss1:0.117430 loss2:0.045313
+epoch:7/200 iter:81/82 loss:0.210167 lossr:0.025323 loss1:0.132517 loss2:0.052326
+epoch:8/200 iter:81/82 loss:0.240607 lossr:0.025897 loss1:0.162617 loss2:0.052093
+epoch:9/200 iter:81/82 loss:0.245633 lossr:0.024950 loss1:0.159051 loss2:0.061631
+save model:MT_IndianPines_lossbst.model
+epoch:10/200 iter:81/82 loss:0.221627 lossr:0.025928 loss1:0.143727 loss2:0.051972
+epoch:11/200 iter:81/82 loss:0.209535 lossr:0.024757 loss1:0.129978 loss2:0.054800
+epoch:12/200 iter:81/82 loss:0.230447 lossr:0.027749 loss1:0.148200 loss2:0.054498
+epoch:13/200 iter:81/82 loss:0.216856 lossr:0.024853 loss1:0.133865 loss2:0.058137
+epoch:14/200 iter:81/82 loss:0.229264 lossr:0.026469 loss1:0.149994 loss2:0.052801
+epoch:15/200 iter:81/82 loss:0.238958 lossr:0.024266 loss1:0.166067 loss2:0.048624
+epoch:16/200 iter:81/82 loss:0.214707 lossr:0.023935 loss1:0.139903 loss2:0.050870
+epoch:17/200 iter:81/82 loss:0.227530 lossr:0.023265 loss1:0.150627 loss2:0.053638
+epoch:18/200 iter:81/82 loss:0.232634 lossr:0.027625 loss1:0.149087 loss2:0.055922
+epoch:19/200 iter:81/82 loss:0.200134 lossr:0.029370 loss1:0.126980 loss2:0.043784
+epoch:20/200 iter:81/82 loss:0.211779 lossr:0.027153 loss1:0.134414 loss2:0.050213
+epoch:21/200 iter:81/82 loss:0.199119 lossr:0.026643 loss1:0.120183 loss2:0.052293
+epoch:22/200 iter:81/82 loss:0.152147 lossr:0.023252 loss1:0.085737 loss2:0.043158
+epoch:23/200 iter:81/82 loss:0.214541 lossr:0.028973 loss1:0.127865 loss2:0.057703
+epoch:24/200 iter:81/82 loss:0.184565 lossr:0.024896 loss1:0.108753 loss2:0.050916
+save model:MT_IndianPines_lossbst.model
+epoch:25/200 iter:81/82 loss:0.195081 lossr:0.024942 loss1:0.119666 loss2:0.050473
+epoch:26/200 iter:81/82 loss:0.216563 lossr:0.027865 loss1:0.132975 loss2:0.055724
+epoch:27/200 iter:81/82 loss:0.234346 lossr:0.024748 loss1:0.153491 loss2:0.056107
+epoch:28/200 iter:81/82 loss:0.210153 lossr:0.025266 loss1:0.141517 loss2:0.043369
+epoch:29/200 iter:81/82 loss:0.215999 lossr:0.027954 loss1:0.128314 loss2:0.059730
+epoch:30/200 iter:81/82 loss:0.246982 lossr:0.026709 loss1:0.158785 loss2:0.061488
+epoch:31/200 iter:81/82 loss:0.227137 lossr:0.028301 loss1:0.144700 loss2:0.054135
+epoch:32/200 iter:81/82 loss:0.254249 lossr:0.026257 loss1:0.172731 loss2:0.055261
+epoch:33/200 iter:81/82 loss:0.222810 lossr:0.025241 loss1:0.136654 loss2:0.060915
+epoch:34/200 iter:81/82 loss:0.210561 lossr:0.026877 loss1:0.127840 loss2:0.055844
+epoch:35/200 iter:81/82 loss:0.192524 lossr:0.025533 loss1:0.107965 loss2:0.059026
+epoch:36/200 iter:81/82 loss:0.225163 lossr:0.023753 loss1:0.153435 loss2:0.047975
+epoch:37/200 iter:81/82 loss:0.219607 lossr:0.029108 loss1:0.132466 loss2:0.058033
+epoch:38/200 iter:81/82 loss:0.239145 lossr:0.029526 loss1:0.148747 loss2:0.060872
+epoch:39/200 iter:81/82 loss:0.235006 lossr:0.027339 loss1:0.147864 loss2:0.059802
+epoch:40/200 iter:81/82 loss:0.249060 lossr:0.026908 loss1:0.168376 loss2:0.053776
+epoch:41/200 iter:81/82 loss:0.222691 lossr:0.025460 loss1:0.135524 loss2:0.061708
+epoch:42/200 iter:81/82 loss:0.240846 lossr:0.026120 loss1:0.160464 loss2:0.054262
+epoch:43/200 iter:81/82 loss:0.178010 lossr:0.025975 loss1:0.110755 loss2:0.041280
+epoch:44/200 iter:81/82 loss:0.191572 lossr:0.026309 loss1:0.122266 loss2:0.042996
+epoch:45/200 iter:81/82 loss:0.222624 lossr:0.029233 loss1:0.143039 loss2:0.050352
+epoch:46/200 iter:81/82 loss:0.231735 lossr:0.025791 loss1:0.149605 loss2:0.056340
+epoch:47/200 iter:81/82 loss:0.219314 lossr:0.028221 loss1:0.134869 loss2:0.056224
+epoch:48/200 iter:81/82 loss:0.273745 lossr:0.026528 loss1:0.179357 loss2:0.067861
+epoch:49/200 iter:81/82 loss:0.207978 lossr:0.028041 loss1:0.129276 loss2:0.050661
+epoch:50/200 iter:81/82 loss:0.192408 lossr:0.028471 loss1:0.117965 loss2:0.045971
+epoch:51/200 iter:81/82 loss:0.209050 lossr:0.026005 loss1:0.132661 loss2:0.050383
+epoch:52/200 iter:81/82 loss:0.210428 lossr:0.025187 loss1:0.135037 loss2:0.050204
+epoch:53/200 iter:81/82 loss:0.193818 lossr:0.027706 loss1:0.112417 loss2:0.053695
+epoch:54/200 iter:81/82 loss:0.239131 lossr:0.024783 loss1:0.163691 loss2:0.050657
+save model:MT_IndianPines_lossbst.model
+epoch:55/200 iter:81/82 loss:0.185980 lossr:0.026283 loss1:0.108254 loss2:0.051443
+epoch:56/200 iter:81/82 loss:0.231223 lossr:0.027957 loss1:0.150317 loss2:0.052949
+epoch:57/200 iter:81/82 loss:0.202810 lossr:0.024449 loss1:0.130668 loss2:0.047693
+epoch:58/200 iter:81/82 loss:0.224786 lossr:0.025617 loss1:0.145438 loss2:0.053731
+epoch:59/200 iter:81/82 loss:0.190809 lossr:0.026093 loss1:0.122831 loss2:0.041885
+epoch:60/200 iter:81/82 loss:0.210334 lossr:0.028336 loss1:0.131168 loss2:0.050830
+epoch:61/200 iter:81/82 loss:0.214829 lossr:0.025257 loss1:0.140518 loss2:0.049055
+epoch:62/200 iter:81/82 loss:0.221201 lossr:0.027774 loss1:0.140318 loss2:0.053109
+epoch:63/200 iter:81/82 loss:0.232248 lossr:0.026318 loss1:0.150436 loss2:0.055494
+epoch:64/200 iter:81/82 loss:0.211752 lossr:0.025172 loss1:0.126157 loss2:0.060423
+epoch:65/200 iter:81/82 loss:0.202825 lossr:0.024247 loss1:0.134946 loss2:0.043633
+epoch:66/200 iter:81/82 loss:0.236760 lossr:0.029460 loss1:0.154036 loss2:0.053265
+epoch:67/200 iter:81/82 loss:0.229729 lossr:0.026860 loss1:0.150449 loss2:0.052421
+epoch:68/200 iter:81/82 loss:0.193305 lossr:0.027585 loss1:0.123934 loss2:0.041785
+epoch:69/200 iter:81/82 loss:0.243742 lossr:0.031410 loss1:0.160011 loss2:0.052320
+epoch:70/200 iter:81/82 loss:0.201788 lossr:0.027417 loss1:0.124380 loss2:0.049991
+epoch:71/200 iter:81/82 loss:0.218323 lossr:0.024442 loss1:0.135324 loss2:0.058557
+epoch:72/200 iter:81/82 loss:0.196476 lossr:0.026967 loss1:0.124537 loss2:0.044971
+epoch:73/200 iter:81/82 loss:0.209180 lossr:0.025342 loss1:0.131599 loss2:0.052240
+epoch:74/200 iter:81/82 loss:0.234616 lossr:0.025409 loss1:0.155672 loss2:0.053534
+epoch:75/200 iter:81/82 loss:0.224931 lossr:0.025993 loss1:0.147065 loss2:0.051872
+epoch:76/200 iter:81/82 loss:0.184481 lossr:0.026362 loss1:0.116006 loss2:0.042114
+epoch:77/200 iter:81/82 loss:0.223286 lossr:0.025427 loss1:0.143373 loss2:0.054485
+epoch:78/200 iter:81/82 loss:0.187787 lossr:0.025974 loss1:0.118074 loss2:0.043739
+epoch:79/200 iter:81/82 loss:0.212314 lossr:0.028557 loss1:0.135112 loss2:0.048645
+epoch:80/200 iter:81/82 loss:0.191296 lossr:0.027714 loss1:0.114793 loss2:0.048789
+epoch:81/200 iter:81/82 loss:0.215255 lossr:0.027295 loss1:0.143243 loss2:0.044717
+epoch:82/200 iter:81/82 loss:0.212041 lossr:0.030150 loss1:0.138838 loss2:0.043053
+epoch:83/200 iter:81/82 loss:0.209948 lossr:0.026817 loss1:0.135111 loss2:0.048020
+epoch:84/200 iter:81/82 loss:0.178374 lossr:0.024869 loss1:0.119246 loss2:0.034259
+epoch:85/200 iter:81/82 loss:0.210724 lossr:0.026647 loss1:0.133145 loss2:0.050932
+epoch:86/200 iter:81/82 loss:0.244140 lossr:0.024639 loss1:0.167687 loss2:0.051814
+epoch:87/200 iter:81/82 loss:0.226483 lossr:0.027238 loss1:0.149183 loss2:0.050062
+epoch:88/200 iter:81/82 loss:0.180408 lossr:0.025713 loss1:0.109829 loss2:0.044865
+epoch:89/200 iter:81/82 loss:0.196907 lossr:0.026266 loss1:0.123105 loss2:0.047535
+train break since val_acc does not improve from epoch: 55
+
+ a new start 
+**************************************************
+epoch:0/200 iter:81/82 loss:0.199637 lossr:0.023155 loss1:0.125797 loss2:0.050685
+epoch:1/200 iter:81/82 loss:0.208224 lossr:0.027983 loss1:0.137807 loss2:0.042434
+epoch:2/200 iter:81/82 loss:0.168233 lossr:0.023871 loss1:0.102752 loss2:0.041610
+
+ a new start 
+**************************************************
+epoch:0/200 iter:81/82 loss:0.086831 lossr:0.023155 loss1:0.031675 loss2:0.032002
+epoch:1/200 iter:81/82 loss:0.065251 lossr:0.027984 loss1:0.015293 loss2:0.021974
+epoch:2/200 iter:81/82 loss:0.053952 lossr:0.023872 loss1:0.015240 loss2:0.014840
+epoch:3/200 iter:81/82 loss:0.052300 lossr:0.029151 loss1:0.011212 loss2:0.011937
+epoch:4/200 iter:81/82 loss:0.051637 lossr:0.027940 loss1:0.010979 loss2:0.012717
+save model:MT_IndianPines_lossbst.model
+epoch:5/200 iter:81/82 loss:0.041393 lossr:0.023817 loss1:0.009008 loss2:0.008568
+epoch:6/200 iter:81/82 loss:0.044029 lossr:0.025201 loss1:0.010373 loss2:0.008455
+epoch:7/200 iter:81/82 loss:0.041088 lossr:0.025308 loss1:0.007193 loss2:0.008586
+epoch:8/200 iter:81/82 loss:0.039203 lossr:0.025918 loss1:0.006570 loss2:0.006715
+epoch:9/200 iter:81/82 loss:0.038787 lossr:0.024947 loss1:0.006094 loss2:0.007747
+save model:MT_IndianPines_lossbst.model
+epoch:10/200 iter:81/82 loss:0.036371 lossr:0.025922 loss1:0.004671 loss2:0.005778
+epoch:11/200 iter:81/82 loss:0.035690 lossr:0.024764 loss1:0.006271 loss2:0.004656
+epoch:12/200 iter:81/82 loss:0.041154 lossr:0.027749 loss1:0.006837 loss2:0.006569
+epoch:13/200 iter:81/82 loss:0.034586 lossr:0.024812 loss1:0.006202 loss2:0.003572
+epoch:14/200 iter:81/82 loss:0.035497 lossr:0.026477 loss1:0.005082 loss2:0.003938
+epoch:15/200 iter:81/82 loss:0.035602 lossr:0.024206 loss1:0.006299 loss2:0.005097
+epoch:16/200 iter:81/82 loss:0.031749 lossr:0.023948 loss1:0.002562 loss2:0.005238
+epoch:17/200 iter:81/82 loss:0.032449 lossr:0.023272 loss1:0.002119 loss2:0.007058
+epoch:18/200 iter:81/82 loss:0.035952 lossr:0.027629 loss1:0.003318 loss2:0.005005
+epoch:19/200 iter:81/82 loss:0.037368 lossr:0.029357 loss1:0.004603 loss2:0.003408
+epoch:20/200 iter:81/82 loss:0.034811 lossr:0.027145 loss1:0.004543 loss2:0.003122
+epoch:21/200 iter:81/82 loss:0.031651 lossr:0.026483 loss1:0.002094 loss2:0.003074
+epoch:22/200 iter:81/82 loss:0.028110 lossr:0.023274 loss1:0.002499 loss2:0.002337
+epoch:23/200 iter:81/82 loss:0.038344 lossr:0.028969 loss1:0.004822 loss2:0.004553
+epoch:24/200 iter:81/82 loss:0.034112 lossr:0.024920 loss1:0.004479 loss2:0.004713
+save model:MT_IndianPines_lossbst.model
+epoch:25/200 iter:81/82 loss:0.032933 lossr:0.024904 loss1:0.003225 loss2:0.004804
+epoch:26/200 iter:81/82 loss:0.036132 lossr:0.027864 loss1:0.003742 loss2:0.004526
+epoch:27/200 iter:81/82 loss:0.032765 lossr:0.024738 loss1:0.004003 loss2:0.004024
+epoch:28/200 iter:81/82 loss:0.030405 lossr:0.025279 loss1:0.002274 loss2:0.002852
+epoch:29/200 iter:81/82 loss:0.032233 lossr:0.027949 loss1:0.001648 loss2:0.002636
+epoch:30/200 iter:81/82 loss:0.033237 lossr:0.026698 loss1:0.003364 loss2:0.003175
+epoch:31/200 iter:81/82 loss:0.036080 lossr:0.028289 loss1:0.002225 loss2:0.005566
+epoch:32/200 iter:81/82 loss:0.033197 lossr:0.026256 loss1:0.002913 loss2:0.004028
+epoch:33/200 iter:81/82 loss:0.030465 lossr:0.025244 loss1:0.003346 loss2:0.001875
+epoch:34/200 iter:81/82 loss:0.031918 lossr:0.026874 loss1:0.001481 loss2:0.003562
+epoch:35/200 iter:81/82 loss:0.031522 lossr:0.025528 loss1:0.003175 loss2:0.002819
+epoch:36/200 iter:81/82 loss:0.029661 lossr:0.023761 loss1:0.003383 loss2:0.002516
+epoch:37/200 iter:81/82 loss:0.033856 lossr:0.029112 loss1:0.001760 loss2:0.002984
+epoch:38/200 iter:81/82 loss:0.035391 lossr:0.029524 loss1:0.002335 loss2:0.003532
+epoch:39/200 iter:81/82 loss:0.037221 lossr:0.027336 loss1:0.005539 loss2:0.004346
+epoch:40/200 iter:81/82 loss:0.036524 lossr:0.026905 loss1:0.003600 loss2:0.006019
+
+ a new start 
+**************************************************
+epoch:0/200 iter:81/82 loss:0.030180 lossr:0.023153 loss1:0.004021 loss2:0.003006
+save model:MT_IndianPines_lossbst.model
+epoch:1/200 iter:81/82 loss:0.035341 lossr:0.027982 loss1:0.004602 loss2:0.002757
+epoch:2/200 iter:81/82 loss:0.032672 lossr:0.023873 loss1:0.006000 loss2:0.002799
+epoch:3/200 iter:81/82 loss:0.033650 lossr:0.029151 loss1:0.002130 loss2:0.002369
+epoch:4/200 iter:81/82 loss:0.036931 lossr:0.027940 loss1:0.004876 loss2:0.004115
+epoch:5/200 iter:81/82 loss:0.029473 lossr:0.023821 loss1:0.002416 loss2:0.003237
+epoch:6/200 iter:81/82 loss:0.031830 lossr:0.025204 loss1:0.004620 loss2:0.002006
+epoch:7/200 iter:81/82 loss:0.033597 lossr:0.025308 loss1:0.004770 loss2:0.003518
+epoch:8/200 iter:81/82 loss:0.030491 lossr:0.025908 loss1:0.002186 loss2:0.002396
+epoch:9/200 iter:81/82 loss:0.030960 lossr:0.024949 loss1:0.002573 loss2:0.003437
+epoch:10/200 iter:81/82 loss:0.033684 lossr:0.025922 loss1:0.005136 loss2:0.002625
+epoch:11/200 iter:81/82 loss:0.030267 lossr:0.024762 loss1:0.003207 loss2:0.002298
+epoch:12/200 iter:81/82 loss:0.034693 lossr:0.027747 loss1:0.003877 loss2:0.003069
+epoch:13/200 iter:81/82 loss:0.033019 lossr:0.024810 loss1:0.004448 loss2:0.003760
+epoch:14/200 iter:81/82 loss:0.031344 lossr:0.026476 loss1:0.002364 loss2:0.002504
+epoch:15/200 iter:81/82 loss:0.032195 lossr:0.024206 loss1:0.004197 loss2:0.003791
+epoch:16/200 iter:81/82 loss:0.027439 lossr:0.023953 loss1:0.001185 loss2:0.002302
+epoch:17/200 iter:81/82 loss:0.028494 lossr:0.023272 loss1:0.000867 loss2:0.004355
+epoch:18/200 iter:81/82 loss:0.033450 lossr:0.027630 loss1:0.001816 loss2:0.004004
+epoch:19/200 iter:81/82 loss:0.035389 lossr:0.029357 loss1:0.003855 loss2:0.002177
+epoch:20/200 iter:81/82 loss:0.032433 lossr:0.027145 loss1:0.003249 loss2:0.002039
+epoch:21/200 iter:81/82 loss:0.029551 lossr:0.026488 loss1:0.001141 loss2:0.001922
+epoch:22/200 iter:81/82 loss:0.027235 lossr:0.023271 loss1:0.002377 loss2:0.001586
+epoch:23/200 iter:81/82 loss:0.034211 lossr:0.028972 loss1:0.002042 loss2:0.003197
+epoch:24/200 iter:81/82 loss:0.031354 lossr:0.024917 loss1:0.003144 loss2:0.003293
+epoch:25/200 iter:81/82 loss:0.030251 lossr:0.024903 loss1:0.002892 loss2:0.002456
+epoch:26/200 iter:81/82 loss:0.034922 lossr:0.027862 loss1:0.003781 loss2:0.003278
+epoch:27/200 iter:81/82 loss:0.030610 lossr:0.024742 loss1:0.002440 loss2:0.003428
+epoch:28/200 iter:81/82 loss:0.028725 lossr:0.025271 loss1:0.001378 loss2:0.002076
+epoch:29/200 iter:81/82 loss:0.031409 lossr:0.027946 loss1:0.001421 loss2:0.002042
+epoch:30/200 iter:81/82 loss:0.031895 lossr:0.026698 loss1:0.002639 loss2:0.002558
+epoch:31/200 iter:81/82 loss:0.034186 lossr:0.028288 loss1:0.002103 loss2:0.003795
+epoch:32/200 iter:81/82 loss:0.032023 lossr:0.026257 loss1:0.002788 loss2:0.002979
+train break since val_acc does not improve from epoch: 1

@@ -1,0 +1,27 @@
+********************
+********************
+dataset_name : IndianPines train_size : 0.1 save_name : IP_rawseg 
+type : rawseg patch_size : 3 batch_size : 256 
+checkpoint : None early_stop : 100 lr : 0.0005 
+epochs : 300 momentum : 0.9 epoch_verbose : 10 
+n_classes : 16 w : 145 h : 145 
+b : 200 seg_w : 145 seg_h : 145 
+seg_b : 200 input_channels : 400 
+********************
+
+---------------------
+Sat Jan  9 17:54:55 2021 run_id 1/5 | best model oa:0.949219 aa:0.925194 kappa:0.942671
+---------------------
+Sat Jan  9 18:14:30 2021 run_id 2/5 | best model oa:0.884440 aa:0.784035 kappa:0.869669
+---------------------
+Sat Jan  9 18:33:58 2021 run_id 3/5 | best model oa:0.931641 aa:0.831589 kappa:0.922880
+---------------------
+Sat Jan  9 18:52:39 2021 run_id 4/5 | best model oa:0.978407 aa:0.971160 kappa:0.975364
+---------------------
+Sat Jan  9 19:15:16 2021 run_id 5/5 | best model oa:0.954970 aa:0.827791 kappa:0.948669
+*********************
+Sat Jan  9 19:15:16 2021 summary oa:0.9397352430555556(0.03143441498685293 aa:0.8679540093728176(0.06914602760694809) kappa:0.9318504815718507(0.03532816732168838))
+
+
+
+

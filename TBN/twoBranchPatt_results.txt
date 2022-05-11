@@ -1,0 +1,550 @@
+
+***********************************
+Fri Oct  8 16:21:41 2021
+-------------------
+{'method_name': 'twoBranch_att_p3_nC30', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 30, 'patch_size': 3, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+97.43444838616844
+98.30309913968648
+99.95066107140977
+97.06878571529346
+100.0
+100.0
+100.0
+99.78852079538149
+99.86547085201794
+98.62347211611917
+99.15677621777306
+98.175109430831
+0.3819130733432625
+0.21030667487379387
+0.5048768473477413
+
+***********************************
+Fri Oct  8 16:44:12 2021
+-------------------
+{'method_name': 'twoBranch_att_p3_nC50', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 50, 'patch_size': 3, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.17409686985398
+99.19917825029948
+99.27983516589907
+96.87575652768984
+100.0
+99.99187652281687
+100.0
+99.78297310953076
+99.50496018660553
+99.2322383498854
+99.31207518141063
+98.98032642193913
+0.3016973775954958
+0.18499564855887937
+0.39919306672169763
+
+***********************************
+Fri Oct  8 16:54:46 2021
+-------------------
+{'method_name': 'twoBranch_att_p3_nC70', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 70, 'patch_size': 3, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.73025932573778
+99.4777948284134
+99.49627599308289
+97.17220486510222
+100.0
+100.0
+100.0
+99.94994281063202
+99.97747747747748
+99.34253246753248
+99.42266170004955
+99.12611673120094
+0.4510619683465244
+0.3046012029680678
+0.5986651489147403
+
+***********************************
+Fri Oct  8 17:05:28 2021
+-------------------
+{'method_name': 'twoBranch_att_p3_nC100', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 100, 'patch_size': 3, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.61018885844864
+98.2760642927085
+99.15186003137869
+97.42290717894406
+100.0
+100.0
+100.0
+99.92751264288536
+99.95510656522397
+98.95005729564552
+99.37151550773213
+98.60756939080721
+0.2755193173910166
+0.29893262350118627
+0.36557551859064663
+
+***********************************
+Fri Oct  8 17:15:16 2021
+-------------------
+{'method_name': 'twoBranch_att_p3_nC200', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 200, 'patch_size': 3, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.69691108629183
+99.62294276320829
+99.02304779747716
+96.76635085618743
+99.95313719750196
+99.8010152284264
+100.0
+99.58788235363714
+99.81994609407427
+99.29048892284186
+99.25235926408938
+99.05593203345994
+0.09328766126287483
+0.1529988626610294
+0.12391940616712652
+
+***********************************
+Fri Oct  8 17:31:23 2021
+-------------------
+{'method_name': 'twoBranch_att_p5_nC30', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 30, 'patch_size': 5, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.02399157588795
+98.61134292384388
+99.5953151701779
+97.48066695299151
+100.0
+100.0
+100.0
+99.20380010749304
+99.79681221032095
+98.9662910618793
+99.30132543785724
+98.62897876104222
+0.39033936114012235
+0.2310266653540702
+0.516432814130011
+
+***********************************
+Fri Oct  8 17:45:56 2021
+-------------------
+{'method_name': 'twoBranch_att_p5_nC50', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 50, 'patch_size': 5, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+97.67477396287244
+99.5784391378737
+99.45558687615707
+97.9193599597325
+100.0
+100.0
+100.0
+99.09999801242566
+99.66266403355452
+99.19451871657753
+99.26564688695733
+98.92992028016508
+0.5194436551652688
+0.34491513434642984
+0.6889641920208329
+
+***********************************
+Fri Oct  8 17:58:19 2021
+-------------------
+{'method_name': 'twoBranch_att_p5_nC70', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 70, 'patch_size': 5, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.56977810844192
+99.75457113089251
+99.03248047334493
+97.39633859071986
+100.0
+100.0
+100.0
+99.97774377392057
+99.68361581920904
+99.42895339954163
+99.3793919885032
+99.24048877882615
+0.2903332738032608
+0.22561400476305235
+0.38563263988142393
+
+***********************************
+Fri Oct  8 18:13:27 2021
+-------------------
+{'method_name': 'twoBranch_att_p5_nC100', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 100, 'patch_size': 5, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.9983911120859
+99.56983864866679
+100.0
+98.55557400162202
+100.0
+100.0
+100.0
+99.87192466321456
+99.95495495495496
+99.54067990832695
+99.66118704228268
+99.38953109083111
+0.23946887760017188
+0.21053367147402824
+0.31822015085650995
+
+***********************************
+Fri Oct  8 18:26:12 2021
+-------------------
+{'method_name': 'twoBranch_att_p5_nC200', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 200, 'patch_size': 5, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.65310902348521
+99.42078622059023
+99.2606221025819
+98.06437494826433
+100.0
+99.99594484995946
+100.0
+99.82730725054358
+100.0
+99.50248281130634
+99.58023826615829
+99.33941930033454
+0.3523753366112195
+0.08245338119450071
+0.4662134856204949
+
+***********************************
+Fri Oct  8 18:44:58 2021
+-------------------
+{'method_name': 'twoBranch_att_p7_nC30', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 30, 'patch_size': 7, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.76664565358469
+98.16482739406058
+99.86200098570723
+97.63312878487895
+100.0
+100.0
+100.0
+99.92201309186662
+99.50383834582925
+98.96485867074102
+99.42805047288083
+98.62846579500057
+0.2632146199549557
+0.14098681250077852
+0.3474551326577113
+
+***********************************
+Fri Oct  8 19:03:37 2021
+-------------------
+{'method_name': 'twoBranch_att_p7_nC50', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 50, 'patch_size': 7, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+96.64688258887708
+99.91525134413617
+99.91141715061175
+98.07568778600266
+100.0
+98.30625507717302
+100.0
+99.0411144800927
+99.55010422492248
+99.0092627960275
+99.04963473909065
+98.68308205448662
+0.7670198571296967
+0.614983530862327
+1.0189940608491712
+
+***********************************
+Fri Oct  8 19:20:58 2021
+-------------------
+{'method_name': 'twoBranch_att_p7_nC70', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 70, 'patch_size': 7, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+97.97687349276138
+99.54248756840667
+99.87166831194472
+98.53748033928092
+100.0
+100.0
+100.0
+99.05449250245795
+99.05637882049933
+99.27282276546983
+99.33770900392788
+99.03388933113749
+0.40338365721066677
+0.31323585685538974
+0.5355473299925673
+
+***********************************
+Fri Oct  8 19:39:54 2021
+-------------------
+{'method_name': 'twoBranch_att_p7_nC100', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 100, 'patch_size': 7, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.35770334365819
+99.23638357813059
+99.85199802664035
+96.94276380107351
+100.0
+99.99188476364374
+100.0
+99.91661093842296
+99.66047680333394
+99.32438884644768
+99.43975791721147
+99.1029990420718
+0.4379308001187356
+0.2656837491339941
+0.5796997835853999
+
+***********************************
+Fri Oct  8 19:58:30 2021
+-------------------
+{'method_name': 'twoBranch_att_p7_nC200', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 200, 'patch_size': 7, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.60118510228823
+99.74672754820402
+99.83259478089612
+98.31143546721283
+100.0
+99.94711147274205
+100.0
+99.88316618694535
+100.0
+99.68200916730329
+99.70246895092095
+99.5773734526993
+0.19803178028390467
+0.09863823337541927
+0.2626304097607084
+
+***********************************
+Fri Oct  8 20:27:22 2021
+-------------------
+{'method_name': 'twoBranch_att_p9_nC30', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 30, 'patch_size': 9, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.45287707399451
+98.58311616737392
+99.99011369253583
+96.0938956179318
+100.0
+100.0
+100.0
+97.3426946045399
+99.00943575778139
+98.76480137509549
+98.94134810157304
+98.36074357568538
+0.21055337703845653
+0.4090049856726009
+0.2789352393317222
+
+***********************************
+Fri Oct  8 20:50:06 2021
+-------------------
+{'method_name': 'twoBranch_att_p9_nC50', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 50, 'patch_size': 9, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.69711934763646
+99.42871870734467
+99.74320987654322
+97.436681859808
+100.0
+98.65692838303914
+100.0
+99.14933430718698
+99.07456798656551
+99.100935828877
+99.13184005201379
+98.80648412608765
+0.8042827701240904
+0.5777857176212249
+1.0660206410415316
+
+***********************************
+Fri Oct  8 21:13:32 2021
+-------------------
+{'method_name': 'twoBranch_att_p9_nC70', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 70, 'patch_size': 9, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.61923273157662
+99.48008624579504
+99.63582677165354
+98.36306951235044
+100.0
+100.0
+100.0
+98.9622445765746
+99.93263471166094
+99.33202826585179
+99.44367717217901
+99.11283380883627
+0.3758139903943226
+0.2810317480975313
+0.4986878653323058
+
+***********************************
+Fri Oct  8 21:41:40 2021
+-------------------
+{'method_name': 'twoBranch_att_p9_nC100', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 100, 'patch_size': 9, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.10290672489236
+99.5506861582748
+99.85212931739528
+98.77937539093324
+99.98437499999999
+100.0
+100.0
+99.80517465903549
+99.05379922210965
+99.37643239113827
+99.45871627473785
+99.17174103680051
+0.44011536977228505
+0.21968601077109215
+0.5839335201530239
+
+***********************************
+Fri Oct  8 22:04:41 2021
+-------------------
+{'method_name': 'twoBranch_att_p9_nC200', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 200, 'patch_size': 9, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.62228766970892
+99.79465820594126
+99.85212423207906
+98.38214398054248
+99.95316159250585
+99.78053241211136
+100.0
+99.52115812917593
+99.93240704063702
+99.65909090909092
+99.64871925141132
+99.54661688978118
+0.1709653483540507
+0.14130758425146628
+0.22736410072940164
+
+***********************************
+Fri Oct  8 22:45:20 2021
+-------------------
+{'method_name': 'twoBranch_att_p11_nC30', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 30, 'patch_size': 11, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.2084870684498
+99.2978518343906
+99.59626768850646
+96.55154730745794
+100.0
+100.0
+99.8579321231255
+98.9957016085013
+99.43489366158182
+99.04555003819709
+99.10474236577927
+98.73275763042842
+0.5118121485660561
+0.35127019688250805
+0.6780064742619644
+
+***********************************
+Fri Oct  8 23:25:52 2021
+-------------------
+{'method_name': 'twoBranch_att_p11_nC50', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 50, 'patch_size': 11, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.76687006378349
+99.09273040123423
+99.95061709069357
+96.79530898390405
+99.95319812792512
+100.0
+100.0
+99.52696254748297
+99.48157537127848
+99.28141711229948
+99.39636250958908
+99.04638117449672
+0.28461002766278926
+0.08564852992502787
+0.37577366964029174
+
+***********************************
+Sat Oct  9 00:21:26 2021
+-------------------
+{'method_name': 'twoBranch_att_p11_nC70', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 70, 'patch_size': 11, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+98.57785128736887
+99.49595419339659
+100.0
+97.3812734462577
+99.95316159250585
+100.0
+100.0
+99.78836198393839
+98.44579096704787
+99.31818181818181
+99.2935992745017
+99.09449385410282
+0.4816816178357472
+0.27699297430857633
+0.6386000128885533
+
+***********************************
+Sat Oct  9 01:02:42 2021
+-------------------
+{'method_name': 'twoBranch_att_p11_nC100', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 100, 'patch_size': 11, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+100.0
+99.44821844634525
+99.70457902511079
+98.12068733955469
+100.0
+100.0
+100.0
+98.7778882344324
+99.32327075838636
+99.49054621848738
+99.48607153375883
+99.32338587058052
+0.2990981481195489
+0.13997286977527137
+0.39613869878651786
+
+***********************************
+Sat Oct  9 01:29:14 2021
+-------------------
+{'method_name': 'twoBranch_att_p11_nC200', 'data_name': 'PaviaU', 'train_size': 50, 'classnums': 9, 'base_nC': 200, 'patch_size': 11, 'batch_size': 16, 'epochs': 200, 'model_save_path': '.\\models', 'early_stop_epoch': 30, 'record': True, 'recordFile': 'twoBranchPatt_results.txt'}
+-------------------
+mean/std oa for each class,axis=0:
+99.49285790597298
+99.551040036798
+99.85245896100021
+98.23641202450644
+99.98435054773083
+100.0
+100.0
+99.87210783581108
+99.50297772597277
+99.56932773109244
+99.61024500419914
+99.42781084017831
+0.17728376178338978
+0.10296471152932365
+0.23506497927812384

@@ -1,0 +1,10 @@
+将数据集放到本文件夹（或在m文件中修改路径指向数据）
+
+runmore_HSI_seg_main.m
+	通过修改参数，实现对IndianPines、PaivaU、Salinas的多波段熵率超像素分割，nC控制超像素数目，即分割尺度
+
+runmore_houston_seg.m
+	通过修改参数，实现对Houston2013的多波段熵率超像素分割，nC控制超像素数目，即分割尺度
+
+runmore_pca_ERS.m
+	通过修改参数，实现对IndianPines、PaivaU、Salinas、Houston2013的PCA主成分的熵率超像素分割，nC控制超像素数目，即分割尺度

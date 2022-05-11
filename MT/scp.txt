@@ -1,0 +1,5 @@
+scp -P 51989   E:\DZD\HSItitan\DZDtitan\MTHSI\Salin*.mat  root@cn-zz-bgp-4.natfrp.cloud:\root\dzd\MTHSI
+scp -P 51989   root@cn-zz-bgp-4.natfrp.cloud:\root\dzd\MTHSI E:\DZD\HSItitan\DZDtitan\MTHSI\Salin*.mat  
+
+# 同步代码
+scp -P 51989   E:\DZD\HSItitan\DZDtitan\MTHSI\*.py  root@cn-zz-bgp-4.natfrp.cloud:\root\dzd\MTHSI
